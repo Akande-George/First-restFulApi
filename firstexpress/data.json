@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "Alex",
+      "age": "22",
+      "id": "b315cf63-a137-4f8a-b720-fb9af7edf926"
+    }
+  ],
+  "locations": [
+    {
+      "latitude": 0,
+      "longitutde": 0,
+      "userId": "fdfdfdd899",
+      "id": "03223f7d-00a4-45ed-b6ab-ded82823de5e"
+    },
+    {
+      "latitude": "4",
+      "longitutde": "14",
+      "userId": "03223f7d-00a4-45ed-b6ab-ded82823de5e",
+      "id": "ea1efc47-f50e-4bb5-944b-6b1cdb0d4cdf"
+    }
+  ]
+}
